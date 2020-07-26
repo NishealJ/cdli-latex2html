@@ -1,0 +1,13 @@
+{
+    "name": "nisheal/cdli-latex2html",
+    "description": "Latex to html converter for CDLI.",
+    "authors": [
+        {
+            "name": "Nisheal John",
+            "email": "nisheal.work@gmail.com"
+        }
+    ],
+    "require": {
+    	"xemlock/php-latex": "dev-master",
+    }
+}
