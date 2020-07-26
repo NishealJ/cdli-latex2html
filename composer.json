@@ -8,6 +8,6 @@
         }
     ],
     "require": {
-    	"xemlock/php-latex": "dev-master",
+    	"xemlock/php-latex": "dev-master"
     }
 }
