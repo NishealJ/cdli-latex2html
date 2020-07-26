@@ -7,6 +7,10 @@
             "email": "nisheal.work@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"NishealJ\\CDLI_Latex2HTML\\": "src/"}
+    },
     "require": {
     	"xemlock/php-latex": "dev-master"
     }

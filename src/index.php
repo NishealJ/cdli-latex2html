@@ -4,7 +4,7 @@ require_once '../vendor/autoload.php';
 
 namespace NishealJ\CDLI_Latex2HTML;
 
-class CDLI_Latex2HTML
+class Latex2HTML
 {
     public function convert($file = "")
     {
